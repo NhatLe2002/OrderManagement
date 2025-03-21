@@ -1,4 +1,6 @@
-//Migration DB 
+//Migration DB:
+ 
 dotnet ef database update --project OrderManagement.Infrastructure --startup-project OrderManagement.Infrastructure
-//Update DB
+//Update DB:
+
 dotnet ef database update --project OrderManagement.Infrastructure --startup-project OrderManagement.Infrastructure
